@@ -8,7 +8,7 @@
         "fontSize": 42,
         "lineHeightMultiplier": 1,
         "backgroundOpacity": "no-transparency",
-        "radius": null,
+        "radius": 0,
         "paddingX": 2,
         "paddingY": 2,
         "removeBracket": true,
@@ -22,6 +22,9 @@
             "paddingX": 0,
             "paddingY": 0,
             "fillEmptyWithDash": true
+        },
+        "browser": {
+            "density": "compact"
         }
     },
     "theme": {
