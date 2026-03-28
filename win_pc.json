@@ -1,49 +1,53 @@
 {
-    "dict": {
-        "autoExpand": {
-            "composite": true
-        }
-    },
-    "subtitle": {
-        "fontSize": 42,
-        "lineHeightMultiplier": 1,
-        "backgroundOpacity": "no-transparency",
-        "radius": 0,
-        "paddingX": 2,
-        "paddingY": 2,
-        "removeBracket": true,
-        "autoOpenSubtitleBrowser": true,
-        "autoParseVideoSubs": true,
-        "removeNewlines": true,
-        "secondary": {
-            "fontSize": 0,
-            "lineHeightMultiplier": 1,
-            "defaultLanguageCode": "en",
-            "paddingX": 0,
-            "paddingY": 0,
-            "fillEmptyWithDash": true
-        },
-        "browser": {
-            "density": "compact"
-        }
-    },
-    "theme": {
-        "dark": {
-            "backgroundPrimaryColor": "#11111b",
-            "backgroundSecondaryColor": "#181825",
-            "textPrimaryColor": "#cdd6f4",
-            "textSecondaryColor": "#bac2de",
-            "textTertiaryColor": "#a6adc8",
-            "orangeColor": "#cba6f7",
-            "redColor": "#f38ba8",
-            "greenColor": "#a6e3a1",
-            "yellowColor": "#f9e2af",
-            "blueColor": "#89b4fa",
-            "wordHighlightKnown": "#a6e3a1",
-            "wordHighlightSeen": "#fab387",
-            "wordHighlightUnknown": "#f38ba8",
-            "wordHighlightHidden": "#6c7086",
-            "logoColor": "#fab387"
-        }
+  "dict": {
+    "autoExpand": {
+      "composite": true
     }
+  },
+  "subtitle": {
+    "fontSize": 42,
+    "lineHeightMultiplier": 1,
+    "backgroundOpacity": "no-transparency",
+    "radius": 0,
+    "paddingX": 2,
+    "paddingY": 2,
+    "removeBracket": true,
+    "autoParseVideoSubs": true,
+    "removeNewlines": true,
+    "secondary": {
+      "fontSize": 0,
+      "lineHeightMultiplier": 1,
+      "defaultLanguageCode": "en",
+      "paddingX": 0,
+      "paddingY": 0,
+      "fillEmptyWithDash": true
+    },
+    "browser": {
+      "density": "compact"
+    }
+  },
+  "theme": {
+    "dark": {
+      "backgroundPrimaryColor": "#11111b",
+      "backgroundSecondaryColor": "#181825",
+      "textPrimaryColor": "#cdd6f4",
+      "textSecondaryColor": "#bac2de",
+      "textTertiaryColor": "#a6adc8",
+      "orangeColor": "#cba6f7",
+      "redColor": "#f38ba8",
+      "greenColor": "#a6e3a1",
+      "yellowColor": "#f9e2af",
+      "blueColor": "#89b4fa",
+      "wordHighlightKnown": "#a6e3a1",
+      "wordHighlightSeen": "#fab387",
+      "wordHighlightUnknown": "#f38ba8",
+      "wordHighlightHidden": "#6c7086",
+      "logoColor": "#fab387"
+    }
+  },
+  "parsing": {
+    "contextMenu": {
+      "showSendToScratchpad": true
+    }
+  }
 }
