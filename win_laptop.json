@@ -13,6 +13,8 @@
     "paddingY": 2,
     "removeBracket": true,
     "autoParseVideoSubs": true,
+    "pauseOnHover": true,
+    "unpauseOnHoverExit": true,
     "removeNewlines": true,
     "secondary": {
       "fontSize": 0,
